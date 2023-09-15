@@ -1,5 +1,11 @@
 # My Portfolio of projects
 
+### [8. Machine Learning Web App with Streamlit and Python ]()
+ - **Summary:** Binary classification of Mushrooms as edible and poisonous
+ - **Key steps:** Create web interface to perform classification with SVM, Logistic regression, and Random forest
+ - **Keywords:** Python, sklearn, streamlit
+
+https://github.com/Pavankv92/deep_learning/assets/50611671/1e965b39-4b25-44a2-a913-4d10bc6343d1
 ### [7. Autonomous Cars ](https://github.com/Pavankv92/self_driving_car_specialization)
  - **Summary:** End to end autonomous car
  - **Key steps:** Kinetic/Dynamic car model, fusing incoming sensor data for localization, percieving world around using camera, Lidar, Radar etc and mission and path planning
