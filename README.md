@@ -1,5 +1,19 @@
 # My Portfolio of projects
 
+### [9. ROS2 Mobile Robot ](https://github.com/Pavankv92/ROS2_mobile_robot)
+ - **Summary:** ROS2 Mobile Robot with integrated sensors
+ - **Key steps:** Build a URDF model and integrate in to Rviz and Gazebo
+ - **Keywords:** C++, Python, Gazebo, Xbox controller
+
+camera,
+
+https://github.com/Pavankv92/ROS2_mobile_robot/assets/50611671/726ecf94-d19e-42fd-a810-224c1daa3d68
+
+Depth Camera,
+
+https://github.com/Pavankv92/ROS2_mobile_robot/assets/50611671/d3dd5cc9-fc3f-4141-be1b-b1df482b873d
+
+
 ### [8. Machine Learning Web App with Streamlit and Python ](https://github.com/Pavankv92/deep_learning)
  - **Summary:** Binary classification of Mushrooms as edible and poisonous
  - **Key steps:** Create web interface to perform classification with SVM, Logistic regression, and Random forest
