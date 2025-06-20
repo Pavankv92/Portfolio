@@ -1,5 +1,25 @@
 # My Portfolio of projects
 
+### [10. ROS2 LeRobot SO-ARM101](https://github.com/Pavankv92/lerobot_ws)
+ - **Summary:** LeRobot SO-ARM101
+ - **Key steps:** Build a URDF model and integrate in to Rviz, Gazebo, ROS2 Control, MoveIt 2
+ - **Keywords:** Python, Gazebo, ROS2 Control MoveIt 2
+
+ Rviz,
+ https://github.com/user-attachments/assets/98f0a867-46c5-4661-8308-5de9e60a960b
+
+Gazebo and ROS 2 Control,
+
+https://github.com/user-attachments/assets/7d82b15c-8276-43b1-9b73-00b3567a5cf7
+
+Gazebo, ROS 2 Control and MoveIt,
+
+https://github.com/user-attachments/assets/f95e9fd7-272a-46a1-8b34-0cb6c3f36da8
+
+https://github.com/user-attachments/assets/5511c329-faad-4020-9527-4034f54a027a
+
+---
+
 ### [9. ROS2 Mobile Robot ](https://github.com/Pavankv92/ROS2_mobile_robot)
  - **Summary:** ROS2 Mobile Robot with integrated sensors
  - **Key steps:** Build a URDF model and integrate in to Rviz and Gazebo
@@ -13,6 +33,7 @@ Depth Camera,
 
 https://github.com/Pavankv92/ROS2_mobile_robot/assets/50611671/d3dd5cc9-fc3f-4141-be1b-b1df482b873d
 
+---
 
 ### [8. Machine Learning Web App with Streamlit and Python ](https://github.com/Pavankv92/deep_learning)
  - **Summary:** Binary classification of Mushrooms as edible and poisonous
@@ -29,6 +50,7 @@ https://github.com/Pavankv92/deep_learning/assets/50611671/1e965b39-4b25-44a2-a9
 | [![Control](intro_to_self_driving.gif)]()<br>**Stanly Controller**<br>| [![Sensor Fusion](./Linear_kalman_filter.gif)]()<br>**Linear Kalman Filter**<br>       | 
 | :---:         |     :---:      |      
 
+---
 
 ### [6. SLAM - Electroencephalography (EEG) ](https://github.com/Pavankv92/Simultaneous_localization_and_mapping_for_camera_based_EEG_electrode_digitalization/tree/master)
  - **Summary:** SLAM using a handheld RGB-D camera
@@ -44,11 +66,15 @@ https://user-images.githubusercontent.com/50611671/133922767-bb743d54-fc99-4aef-
 
 https://user-images.githubusercontent.com/50611671/123485537-98698000-d60a-11eb-85e6-db8b97f7c020.mp4
 
+---
+
 ### [5. Image guided robotic TMS](https://github.com/Pavankv92/Image-Guided-Robotic-Transcranial-Magnetic-Stimulation-)
  - **Summary:** Head motion detection and robot end-effector motion in tandem simulating TMS medical procedure
  - **Key steps:** Camera calibration, hand-eye calibration, head motion estimation and robot motion planning
  - **Keywords:** OpenCV, ROS, Python
-  
+
+---
+
 ![TMS](TMS.gif)
 ### [4. Segway Control]()
  - **Summary:** Segway control using Optimal and Robust control strategies
@@ -57,6 +83,8 @@ https://user-images.githubusercontent.com/50611671/123485537-98698000-d60a-11eb-
 
 ![segway_control](segway_control.gif)
 
+---
+
 ### [3. Remote Pipe Inspection Camera Robot]()
  - **Summary:** Arduino based, WiFi controlled, remote pipe inspection
  - **Key steps:** Camera movement control, WiFi control
@@ -64,12 +92,16 @@ https://user-images.githubusercontent.com/50611671/123485537-98698000-d60a-11eb-
 
 ![pipe_inspection_camera_robot](pipe_inspection_camera_robot.gif)
 
+---
+
 ### [2. DC Plamsa]()
  - **Summary:** Room temperature DC plasma generation and control
  - **Key steps:** Chamber pressure reduction (low vacuum), 220-230V AC - 1000 V DC conversion and plasma
  - **Keywords:** Vacuum, AC - DC, Plasma
 
 ![plasma demo](Plasma_demo.gif)
+
+---
 
 ### [1. Augmented Reality App]()
  - **Summary:** Basic AR App implementation
