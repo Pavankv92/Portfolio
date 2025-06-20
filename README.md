@@ -6,7 +6,8 @@
  - **Keywords:** Python, Gazebo, ROS2 Control MoveIt 2
 
  Rviz,
- https://github.com/user-attachments/assets/98f0a867-46c5-4661-8308-5de9e60a960b
+
+https://github.com/user-attachments/assets/98f0a867-46c5-4661-8308-5de9e60a960b
 
 Gazebo and ROS 2 Control,
 
